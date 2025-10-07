@@ -1,0 +1,21 @@
+#Виртуальное окружение 
+.venv/
+venv/
+
+# Кэш и временные файлы
+_pycache_/
+*._pyc
+*.pyo
+*.log
+*.tmp
+
+#Файлы VSCode
+.vscode/
+.idea/
+
+#Операционная система
+.DS_Store
+Thumbs.db
+
+config.py
+  
